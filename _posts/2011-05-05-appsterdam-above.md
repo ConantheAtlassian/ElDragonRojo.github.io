@@ -30,11 +30,11 @@ To Americans, the last great war is an abstract idea, the subject of documentari
 
 This all happens less than a week after Queen's Day, which is the Dutch equivalent of Presidents' Day, except that the party is more like New Year's Eve, with everyone in the country taking to the streets the night before for 24-hours of revelry. Sales tax is suspended for the day, leading to free markets springing up on every inch of available pavement.
 
-<img src="http://mur.mu.rs/wp-content/uploads/mur.mu.rs/2011/05/Bezet.jpg" alt="Reserved pavement for Queen's Day" title="Bezet.JPG" border="0" width="600" height="448" />
+<img src="/images/assets/Bezet.jpg" alt="Reserved pavement for Queen's Day" title="Bezet.JPG" border="0" width="600" height="448" />
 
 In the days leading up to Queen's Day, people call dibs on their piece of the pie by drawing a border in tape, usually accompanied by the word BEZET, meaning "reserved," or more accurately, "occupied." This is such a cultural phenomenon that Heineken, the Budweiser of Holland, riffs on it in its advertisements.
 
-<img src="http://mur.mu.rs/wp-content/uploads/mur.mu.rs/2011/05/Heineken.jpg" alt="Heineken Ad for Queen's Day" title="Heineken.jpg" border="0" width="448" height="600" />
+<img src="/images/assets/Heineken.jpg" alt="Heineken Ad for Queen's Day" title="Heineken.jpg" border="0" width="448" height="600" />
 
 What I love about Queen's Day is not that it's the world's largest birthday party, but the birthday wish that it fulfills. The point of Queen's Day is togetherness. It is the one day of the year when we set aside our differences and literally take to the streets to meet our neighbors, embrace our differences, and party our asses off with strangers—all while dressed in bright orange.
 

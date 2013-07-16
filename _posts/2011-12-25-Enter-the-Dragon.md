@@ -14,13 +14,13 @@ meta: {}
 ---
 The other day I had one of those realizations that is inevitably followed by a deep yawn and a pop of the ears. Not too long ago, there was a piece of data produced that was so powerful, so undeniable, that anyone who saw it and took a moment to truly ponder its meaning was forever changed. While it arrived at a time of great change and to a certain extent, great liberation, it didn't have the long-lasting effects that it should have.
 
-<a href="http://upload.wikimedia.org/wikipedia/commons/a/a8/NASA-Apollo8-Dec24-Earthrise.jpg" target="_new"><img style="display:block; margin-left:auto; margin-right:auto;" src="http://mur.mu.rs/wp-content/uploads/2011/12/Earthrise.png" alt="The picture that should have signaled the dawn of new age." title="Earthrise.png" border="0" width="600" height="589" /></a>
+<a href="http://upload.wikimedia.org/wikipedia/commons/a/a8/NASA-Apollo8-Dec24-Earthrise.jpg" target="_new"><img style="display:block; margin-left:auto; margin-right:auto;" src="/images/assets/Earthrise.png" alt="The picture that should have signaled the dawn of new age." title="Earthrise.png" border="0" width="600" height="589" /></a>
 
 That piece of data was a photograph, popularly known as "<a href="http://en.wikipedia.org/wiki/Earthrise">Earthrise</a>," that was taken 43 years ago, on 24 December 1968, by the Apollo 8 astronauts, of the Earth from the Moon. To see our situation, seeing all that we have for what it is, a rock floating in the middle of a vast and almost entirely empty space, so small in the grand scheme of things, so frighteningly fragile—how could that not forever change who we are?
 
 We've been looking down at the Earth ever since, reproducing that same idea in higher resolution with greater detail. In 2002, NASA produced the most spectacular image yet, the famed "<a href="http://visibleearth.nasa.gov/view.php?id=57723">Blue Marble</a>." It is baffling to me that we can look at that picture, with an impossibly thin layer of gas that is all we have, and continue to behave the way we do.
 
-<a href="http://eoimages.gsfc.nasa.gov/images/imagerecords/57000/57723/globe_east_2048.tif" target="_new"><img style="display:block; margin-left:auto; margin-right:auto;" src="http://mur.mu.rs/wp-content/uploads/2011/12/BlueMarble.png" alt="That layer of gas that is all we have is so impossibly thin." title="BlueMarble.png" border="0" width="600" height="600" /></a>
+<a href="http://eoimages.gsfc.nasa.gov/images/imagerecords/57000/57723/globe_east_2048.tif" target="_new"><img style="display:block; margin-left:auto; margin-right:auto;" src="/images/assets/BlueMarble.png" alt="That layer of gas that is all we have is so impossibly thin." title="BlueMarble.png" border="0" width="600" height="600" /></a>
 
 The information coming from space in 2011 has been the kind of incredible stuff that makes me grateful to be alive to see it. I can't help but notice these incredible videos coming out of the International Space Station, like the one huge <a href="http://vimeo.com/32001208">time-lapse of Earth</a> from <a href="http://vimeo.com/michaelkoenig">Michael König</a> on <a href="http://vimeo.com">Vimeo</a>. 
 

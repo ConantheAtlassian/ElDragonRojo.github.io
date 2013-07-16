@@ -16,7 +16,7 @@ We're about a week into our ongoing soft relaunch of <a href="http://le.mu.rs/ch
 
 First and foremost, all we really did was our best implementation of what <a href="http://app.net/chrisphin">Chris Phin</a> asked all App Makers to do in his talk at <a href="http://nsconference.com">NSConference 5</a>. Our "perfect press release," was literally just a point for point copy of the ideal press release from his talk, which I hope nobody will mind me sharing here.
 
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://mur.mu.rs/wp-content/uploads/2013/05/PhinFormat.png" alt="Chris Phin's Press Release Format" title="PhinFormat.png" border="0" width="600" height="358" />
+<img style="display:block; margin-left:auto; margin-right:auto;" src="/images/assets/PhinFormat.png" alt="Chris Phin's Press Release Format" title="PhinFormat.png" border="0" width="600" height="358" />
 
 Our press page is just the stuff he asked us to make available, like a bunch of full resolution screenshots, and a short trailer, together with the extended "Let's Play" videos that we put up as a way for people to experience the game without having to buy it first. In particular, I didn't even know what a reviewer's guide was before his talk, and ours ended up turning out <a href="http://assets.newlemurs.com/press/Reviewers-Guide/Lemurs-Chemistry-Water-Reviewers-Guide.pdf">really nicely</a>.
 

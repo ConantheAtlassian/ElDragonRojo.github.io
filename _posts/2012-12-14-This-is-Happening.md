@@ -19,7 +19,7 @@ My market research consisted of talking to parents and looking at what they felt
 
 The upshot is, I don't care what other companies' strategies are. I care about why their customers are unhappy. When I did take a look, I was unsettled by what I saw.
 
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://mur.mu.rs/wp-content/uploads/2012/12/TopEduGames.png" alt="A list of the top 21 paid educational iPad games, with icons" title="TopEduGames.PNG" border="0" width="600" height="450" />
+<img style="display:block; margin-left:auto; margin-right:auto;" src="/images/assets/TopEduGames.png" alt="A list of the top 21 paid educational iPad games, with icons" title="TopEduGames.PNG" border="0" width="600" height="450" />
 
 Seriously, if I look at that picture too long I start to feel very nervous. All those primary colors and simple topics make our little lemur feel very claustrophobic. I can hear the creaking of a swing and disembodied voices on the breeze, singing, "one of these things is not like the other…"
 
@@ -27,7 +27,7 @@ I'm going to have to reconcile the fact that the market being served by this cat
 
 Some of these don't seem educational. Some of them don't seem like games. Most of them are for a primary school audience. I wouldn't call most of these educational games. I would call these kids games. I would call these apps for children. There should be a category for that. Oh wait, there is.
 
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://mur.mu.rs/wp-content/uploads/2012/12/TopKidGames.png" alt="A list of the top 21 paid kids iPad games, with icons" title="TopKidGames.PNG" border="0" width="600" height="450" />
+<img style="display:block; margin-left:auto; margin-right:auto;" src="/images/assets/TopKidGames.png" alt="A list of the top 21 paid kids iPad games, with icons" title="TopKidGames.PNG" border="0" width="600" height="450" />
 
 The time difference between those two screenshots is the amount of time it took me to figure out that there actually was a kids category that, unsurprisingly, is mostly the same stuff cross-listed into educational games.
 

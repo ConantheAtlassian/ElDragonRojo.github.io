@@ -16,7 +16,7 @@ Yes, I spent over a decade on Apple's platforms. What can I say? I've always bee
 
 My friends in Redmond have hooked me up with a Surface and a Lumia running Windows Phone 8, as well as Parallels and Visual Studio. I simply could not be happier with the attention we've gotten. With the long-time focus on education that Microsoft is well known for, I'm eager to get <a href="http://le.mu.rs/chemistry">Lemurs Chemistry</a> in front of some students.
 
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://mur.mu.rs/wp-content/uploads/2013/04/Surface.jpg" alt="Me, holding an actual Surface." title="Surface.jpg" border="0" width="600" height="399" />
+<img style="display:block; margin-left:auto; margin-right:auto;" src="/images/assets/Surface.jpg" alt="Me, holding an actual Surface." title="Surface.jpg" border="0" width="600" height="399" />
 
 Not to diss on Apple. I wish them all the best, not that they need it. They're doing amazing work, and I suspect they will continue as the market leader in mobile for a long time. If I've learned anything from being on their platforms, it's that one company doesn't have to lose for another company to win. 
 

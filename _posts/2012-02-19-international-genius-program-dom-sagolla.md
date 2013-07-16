@@ -27,4 +27,4 @@ Dom will be in Amsterdam from February 25th to March 2nd. He will receive formal
 
 Dom will also be making public appearances all over town that week. You can count on catching him at our usual Wednesday activities—the Weekly Wednesday Lunchtime Lecture and Meeten en Drinken at Bax. You can also catch Dom the night before, February 28th, at a special event at Pakhuis de Zwijger. Here's a flier we made for that event:
 
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://mur.mu.rs/wp-content/uploads/2012/02/DomSagollaPDZ.jpeg" alt="This is a flier for Dom Sagolla's appearance at Pakhuis de Zwijger on February 28." title="DomSagollaPDZ.jpeg" border="0" width="600" height="850" />
+<img style="display:block; margin-left:auto; margin-right:auto;" src="/images/assets/DomSagollaPDZ.jpeg" alt="This is a flier for Dom Sagolla's appearance at Pakhuis de Zwijger on February 28." title="DomSagollaPDZ.jpeg" border="0" width="600" height="850" />

@@ -20,7 +20,7 @@ I came to realize two things about Appsterdam—there is a ton of technology her
 
 Actually, it's once a week. Every week we have a tech conference here. Every day we have a developer meetup here. Talented and passionate developers fill this city. Just the other day we had a BBQ on a week's notice over Twitter and had about 40 people stop by to talk about Appsterdam.
 
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://mur.mu.rs/wp-content/uploads/mur.mu.rs/2011/06/Appsterdammers.jpg" alt="Appsterdam BBQ" title="Appsterdammers.JPG" border="0" width="600" height="206" />
+<img style="display:block; margin-left:auto; margin-right:auto;" src="/images/assets/Appsterdammers.jpg" alt="Appsterdam BBQ" title="Appsterdammers.JPG" border="0" width="600" height="206" />
 
 We haven't even launched yet. The Appsterdam initiative begins this summer with a launch party over the last weekend of June (24-26). Yet we've already been in two newspapers here, are all over Twitter and the Internet, and have dozens of people coming to the weekly planning meetings.
 

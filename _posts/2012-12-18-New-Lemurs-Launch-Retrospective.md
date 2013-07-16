@@ -14,7 +14,7 @@ meta: {}
 ---
 Well, it's official—Lemurs Chemistry: Water is a hit! We've got five-star ratings on App Stores worldwide. Everyone agrees it's beautiful, nobody hates it, and people who understand the game find it quite addictive. The current Game Center Champion is Joris Kluivers, whose game of Dry mode is currently over 14 million points! When I passed 2 million, I said my high score would reign for a long time to come. Boy was I wrong!
 
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://mur.mu.rs/wp-content/uploads/2012/12/LemursChemistryChampions1.png" alt="Game Center shows Joris Kluivers' high score of more than 14 million points, with clips of five-star ratings from international App Stores." title="LemursChemistryChampions.png" border="0" width="600" height="467" />
+<img style="display:block; margin-left:auto; margin-right:auto;" src="/images/assets/LemursChemistryChampions1.png" alt="Game Center shows Joris Kluivers' high score of more than 14 million points, with clips of five-star ratings from international App Stores." title="LemursChemistryChampions.png" border="0" width="600" height="467" />
 
 The game has revealed an interesting phenomenon where kids find it quite easy, but adults are frustrated because they think they need to know chemistry. You are meant to discover chemistry. If you could make atoms billions of times bigger, hydrogen molecules would not be the ones labeled H. They would be the smallest, and therefore the lightest and fastest. Oxygen and nitrogen molecules look similar, but only oxygen reacts with hydrogen. <a href="http://lemurs.pressdoc.com/35846-easy-for-kids-hard-for-adults">Kids get that</a>.
 

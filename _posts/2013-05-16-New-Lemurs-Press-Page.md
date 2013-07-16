@@ -12,7 +12,7 @@ meta: {}
 ---
 After my post about our press release and all the help we got from awesome people, folks wanted to know more about the <a href="http://newlemurs.com/press">press page</a>, so here are some diagrams I made in the spirit of Chris Phin.
 
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://mur.mu.rs/wp-content/uploads/2013/05/PressPage1.png" alt="PressPage1" title="PressPage1.png" border="0" width="600" height="450" />
+<img style="display:block; margin-left:auto; margin-right:auto;" src="/images/assets/PressPage1.png" alt="PressPage1" title="PressPage1.png" border="0" width="600" height="450" />
 
 There are two important ideas that went into our press page. The first is that journalists want basic, no-nonsense information, stripped of marketing fluff. They want to know as much about our product as possible in as little time as they have, so we give them the good stuff, right up front.
 
@@ -20,7 +20,7 @@ They want promo codes. We try to make getting them as painless as possible. Then
 
 Since our press release is concise enough to demo, we include the whole thing, right above the fold, right next to the basic information that should accompany any press release: what the product is, and how people can get in touch with us. Oh yeah, and high-resolution logos and screenshots. Making high quality assets available makes it easy to cover us, which brings me to the other second important idea.
 
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://mur.mu.rs/wp-content/uploads/2013/05/PressPage2.png" alt="PressPage2" title="PressPage2.png" border="0" width="600" height="450" />
+<img style="display:block; margin-left:auto; margin-right:auto;" src="/images/assets/PressPage2.png" alt="PressPage2" title="PressPage2.png" border="0" width="600" height="450" />
 
 Journalists are just as lazy as I am. The easier we make it for them to do their jobs, the more they are going to love us. We tell them lots of clever things to notice about the game in our heavily illustrated reviewer's guide. We want them to know everything they need to know after 20 minutes with our product. 
 

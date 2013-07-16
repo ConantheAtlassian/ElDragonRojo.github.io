@@ -14,7 +14,7 @@ meta: {}
 ---
 By all indications the first course at <strong>Big Nerd Ranch Appsterdam</strong> was a smashing success. I have every reason in the world to be biased, but the <a href="https://twitter.com/isutton/status/130200996193374208">students</a> <a href="https://twitter.com/akulbe/status/129984167676088320">are</a> <a href="https://twitter.com/mattfgl/status/129834849912631296">happy</a> and the <a href="https://twitter.com/aaronhillegass/status/128165046621708289">boss is happy</a>, so I'm happy too. The next Big Nerd Ranch Appsterdam course will be <a href="http://www.bignerdranch.com/classes/beginning_ios_iphone_ipad_">December 2-9</a>.
 
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://mur.mu.rs/wp-content/uploads/2011/10/BNRAppsterdam0.jpg" alt="Big Nerd Ranch Appsterdam, Class 0, courtesy of @trippeltrap" title="BNRAppsterdam0.JPG" border="0" width="600" height="390" />
+<img style="display:block; margin-left:auto; margin-right:auto;" src="/images/assets/BNRAppsterdam0.jpg" alt="Big Nerd Ranch Appsterdam, Class 0, courtesy of @trippeltrap" title="BNRAppsterdam0.JPG" border="0" width="600" height="390" />
 
 Just in time to get back to planning the follow-up to <a href="http://www.nytimes.com/external/venturebeat/2011/06/27/27venturebeat-appsterdam-a-haven-for-indie-app-makers-89100.html">the greatest tech launch party ever</a>, <a href="http://meetup.com/Appsterdam/events/36497712/">the greatest tech launch party ever</a>. I was hesitant to say we were going to outdo ourselves until I got back from the ranch, took a look at the sponsor list, and got a full status report.
 

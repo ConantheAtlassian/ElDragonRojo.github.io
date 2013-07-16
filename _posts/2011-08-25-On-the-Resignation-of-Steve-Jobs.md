@@ -32,12 +32,12 @@ I never talked to Steve at Apple. Not once. I would talk <em>about</em> Steve. I
 
 After my shift at the sausage factory, I would go home to continue coding in my Silicon Valley garage, get ferociously stoned, and email Steve. 
 <br clear="all" />
-<img src="http://mur.mu.rs/wp-content/uploads/mur.mu.rs/2011/08/MikeLeeAndSteveWozniak.jpg" alt="Mike Lee and Steven Wozniak, standing in line at Valley Fair for the iPad launch." title="MikeLeeAndSteveWozniak.JPG" border="0" width="300" height="301" style="float:left;" /><img src="http://mur.mu.rs/wp-content/uploads/mur.mu.rs/2011/08/WozPhone.jpg" alt="Woz signed my iPhone" title="WozPhone.jpg" border="0" width="300" height="400" style="float:right;" />
+<img src="/images/assets/MikeLeeAndSteveWozniak.jpg" alt="Mike Lee and Steven Wozniak, standing in line at Valley Fair for the iPad launch." title="MikeLeeAndSteveWozniak.JPG" border="0" width="300" height="301" style="float:left;" /><img src="/images/assets/WozPhone.jpg" alt="Woz signed my iPhone" title="WozPhone.jpg" border="0" width="300" height="400" style="float:right;" />
 <br clear="all" />
 I emailed him before camping out at Valley Fair for the iPad launch (sixth in the door, behind Steve Wozniak). I was so excited about it, and I wanted him to know how excited I was. I told him about going to the Star Trek Experience and how all the tablets ever envisioned for Star Trek look like crap compared to the iPad.
 
 I emailed him to tell him that I had to choose between being in the same room as Steve Jobs or a naked woman, and chose the woman, because I thought that's what he would do. I wanted to let him know that bmf@apple.com was a pirate. I hoped that would make him smile.
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://mur.mu.rs/wp-content/uploads/mur.mu.rs/2011/08/MikeLeeAppleBadge.jpg" alt="Mike Lee's Apple Badge" title="MikeLeeAppleBadge.jpg" border="0" width="450" height="600" />
+<img style="display:block; margin-left:auto; margin-right:auto;" src="/images/assets/MikeLeeAppleBadge.jpg" alt="Mike Lee's Apple Badge" title="MikeLeeAppleBadge.jpg" border="0" width="450" height="600" />
 I emailed Steve for the last time before leaving Apple and Silicon Valley behind to ask a question: when I was a kid and I thought of the future, it wasn't as good as my life is now, so what am I meant to think of now when I think of the future?
 
 Like the other late night missives, Steve never responded, which made me realize the answer was obvious: the future is ours to invent.

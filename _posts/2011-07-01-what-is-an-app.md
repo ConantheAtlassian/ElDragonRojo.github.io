@@ -32,7 +32,7 @@ That trend has continued to the point where computers are things we carry in a p
 
 Looking into our wildest imaginations, we see a time when we are engineering on the molecular level, when machines are themselves made of nanomachines. Hardware and software cease to be distinct concepts when we can change not just how a machine behaves, but what a machine is.
 
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://mur.mu.rs/wp-content/uploads/mur.mu.rs/2011/07/Book2Piano.jpg" alt="How we turn a book into a piano." title="Book2Piano.jpg" border="0" width="600" height="450" />
+<img style="display:block; margin-left:auto; margin-right:auto;" src="/images/assets/Book2Piano.jpg" alt="How we turn a book into a piano." title="Book2Piano.jpg" border="0" width="600" height="450" />
 
 We do not yet have the ability to turn a book into a piano, except that we do. In the context of the entire timeline of machines, something like an iPad becomes less like the <a href="http://en.wikipedia.org/wiki/Colossus_computer">Colossus</a> and more like a poor man's nanocolony. 
 

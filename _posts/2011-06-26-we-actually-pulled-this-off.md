@@ -12,7 +12,7 @@ type: post
 published: true
 meta: {}
 ---
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://mur.mu.rs/wp-content/uploads/mur.mu.rs/2011/06/AppsterdamMovement.png" alt="The Appsterdam Movement" title="AppsterdamMovement.png" border="0" width="600" height="336" />
+<img style="display:block; margin-left:auto; margin-right:auto;" src="/images/assets/AppsterdamMovement.png" alt="The Appsterdam Movement" title="AppsterdamMovement.png" border="0" width="600" height="336" />
 
 This weekend the Appsterdam movement launched the Summer of Appsterdam, our first set of initiatives for building the City of Apps. We'll have the whole summer to talk more about that. For now, I want to tell you about the actual event. I think—I'm not 100% positive, but I think—we managed to throw the <i>greatest launch party of all time</i>.
 
