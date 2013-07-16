@@ -300,7 +300,15 @@ h2.site-name a, h2.site-name  a:link, h2.site-name  a:active, h2.site-name a:vis
 }
 
 .content-container {
+  display: block;
+  clear: both;
+  display: inline-block;
+}
+
+.page, #home {
   width: 70%;
+  margin-right: 0;
+  float: left;
 }
 
 .meta {
@@ -312,4 +320,9 @@ h2.site-name a, h2.site-name  a:link, h2.site-name  a:active, h2.site-name a:vis
 
 .meta a, .meta a:link, .meta a:active, .meta a:visited {
   color: #888;
+}
+
+.side-nav {
+  float:left;
+  width: 29%;
 }

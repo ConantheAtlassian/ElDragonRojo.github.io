@@ -3,18 +3,19 @@ layout: default
 paginate: 1
 ---
 <div class="entry page">
-<h1>{{ page.title }}</h1>
-{% include post-pager.html %}
-<p class="meta">Posted on {{ page.date | date_to_string }} by <a href="https://twitter.com/bmf">Mike</a></p>
-<div class="post">
-{{ content }}
+    <h1>{{ page.title }}</h1>
+    {% include post-pager.html %}
+    <p class="meta">Posted on {{ page.date | date_to_string }} by <a href="https://twitter.com/bmf">Mike</a></p>
+    <div class="post">
+    {{ content }}
+    </div>
+    <br/>
+    {% include post-pager.html %}
+    <br/>
+    {% include author-info.html %}
+    <br>
+    <p class="meta">
+        This entry was posted in {{ page.categories }} and tagged {{ page.tags }}.
+    </p>
 </div>
-<br/>
-{% include post-pager.html %}
-<br/>
-{% include author-info.html %}
-<br>
-<p class="meta">
-    This entry was posted in {{ page.categories }} and tagged {{ page.tags }}.
-</p>
-</div>
+{% include side-nav.html %}
