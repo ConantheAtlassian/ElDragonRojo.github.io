@@ -69,7 +69,12 @@ HEADER
   end
 
   def clean
-    puts full_post
+    new_content = full_post
+    File.open path, "w+" do |file|
+      file.truncate(0)
+      file.rewind
+      file.write new_content
+    end
   end
 end
 
@@ -79,6 +84,7 @@ posts = Dir.glob("./_posts/*.md")
 posts.each do |post_path|
   PostCleaner.new(post_path).clean
 end
+
 
 
 
