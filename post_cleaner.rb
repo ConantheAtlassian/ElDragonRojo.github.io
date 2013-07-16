@@ -4,8 +4,20 @@ class PostCleaner
     @path = path
   end
 
+  def post
+    File.open path, "w+" do |file|
+      yield file
+    end
+  end
+
+  def categories
+    post do |file|
+      file.match /Keywords:\n(.+)?$/
+    end
+  end
+
   def clean
-    puts "clean #{File.basename(path)}"
+    categories
   end
 end
 
