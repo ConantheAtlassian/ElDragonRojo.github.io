@@ -4,20 +4,72 @@ class PostCleaner
     @path = path
   end
 
-  def post
-    File.open path, "w+" do |file|
-      yield file
+  def categories
+    result = []
+    File.open path do |file|
+      txt = file.read
+      txt.scan(/Keywords:\n(.+)$/) { |m| result = m.join(" ").split(",").map(&:lstrip) }
     end
+    result
   end
 
-  def categories
-    post do |file|
-      file.match /Keywords:\n(.+)?$/
+  def title
+    result = []
+    File.open path do |file|
+      txt = file.read
+      txt.scan(/Title:\n(.+)$/) { |m| result = m.join }
     end
+    result
+  end
+
+  def body
+    result = []
+    recording = false
+    File.open(path).each_line do |line|
+      
+      if line =~ /^Body:$/
+        recording = true
+        next
+      end
+
+      if line =~ /^Extended:$/
+        recording = false
+        next
+      end
+
+      if recording
+        result << line
+      end
+    end
+    result
+  end
+
+  def date
+    result = ""
+    File.open path do |file|
+      file.read.scan(/This is a MarsEdit backup file from a post made on (.*?)$/) { |m| result = m.join }
+    end
+    result
+  end
+
+  def post_header
+<<HEADER
+---
+layout: post
+title:  "#{title}"
+date:   #{date}
+categories: #{categories.join(" ")}
+---
+
+HEADER
+  end
+
+  def full_post
+    [post_header, body].join("\n")
   end
 
   def clean
-    categories
+    puts full_post
   end
 end
 
