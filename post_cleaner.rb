@@ -58,7 +58,7 @@ class PostCleaner
 layout: post
 title:  "#{title}"
 date:   #{date}
-categories: #{categories.join(" ")}
+tags: #{categories.join(" ")}
 ---
 
 HEADER
