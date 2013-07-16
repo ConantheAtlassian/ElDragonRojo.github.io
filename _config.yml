@@ -1,4 +1,5 @@
 name: mu.mu.rs
 markdown: redcarpet
 paginate: 10
+permalink: blog/:year/:month/:day/:title
 

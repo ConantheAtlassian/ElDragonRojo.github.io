@@ -72,6 +72,10 @@ div.entry h2 {
   font-size: 21px;
 }
 
+div.entry h2 a {
+  color: #000;
+  text-decoration: none;
+}
 
 /*****************************************************************************/
 /*
@@ -151,7 +155,7 @@ div.entry h2 {
 }
 
 .container {
-  background-color: #f1f1f1; 
+  background-color: #f1f1f1;
 }
 
 /*****************************************************************************/
@@ -247,4 +251,65 @@ h2.site-name a, h2.site-name  a:link, h2.site-name  a:active, h2.site-name a:vis
 
 .entry h1 {
   font-size: 21px;
+}
+
+.post-pager {
+  font-size: 12px;
+  color: #888;
+  height: 20px;
+}
+
+.post-pager a, .post-pager a:link, .post-pager a:active, .post-pager a:visited {
+  font-size: 12px;
+  color: #888;
+  font-family: 'Helvetica Neue', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
+  text-decoration: none;
+}
+
+.post-pager a.prev
+{
+  float: left;
+}
+
+.post-pager a.next
+{
+  float: right;  
+}
+
+.author-info {
+  background-color: #F2F7FC;
+  padding: 20px;
+  border-top: 3px solid #000;
+  clear: both;
+  height: 150px;
+}
+
+.author-info .image {
+  float: left;
+  width: 20%;
+}
+
+.author-info .info {
+  float: left;
+  width: 70%;
+  padding-left: 10px;
+}
+
+.author-info .image img {
+  height: 150px;
+}
+
+.content-container {
+  width: 70%;
+}
+
+.meta {
+  font-size: 12px;
+  color: #888;
+  font-family: 'Helvetica Neue', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
+  text-decoration: none;
+}
+
+.meta a, .meta a:link, .meta a:active, .meta a:visited {
+  color: #888;
 }

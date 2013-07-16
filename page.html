@@ -1,0 +1,48 @@
+---
+layout: default
+title: Your New Jekyll Site
+---
+
+<div id="home">
+    <div class="pagination">
+    {% if paginator.next_page %}
+      <a href="/page{{ paginator.next_page }}" class="next">Older Posts</a>
+    {% else %}
+      <span class="next ">Next</span>
+    {% endif %}
+        
+    {% if paginator.previous_page == 1 %}
+        <a href="/">Newer Posts</a> 
+    {% else if paginator.previous_page %}
+        <a href="/page{{ paginator.previous_page }}" class="previous">Newer Posts</a>
+    {% else %}
+        <span class="previous">Previous</span>
+    {% endif %}
+    </div>
+    <div class="posts">
+    {% for post in paginator.posts %}
+        <div class="entry">
+            <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+            <p class="meta">{{ post.date | date_to_string }}</p>
+            <div class="content">
+            {{ post.content }}
+            </div>
+        </div>
+    {% endfor %}
+    </div>
+    <div class="pagination">
+    {% if paginator.next_page %}
+      <a href="/page{{ paginator.next_page }}" class="next">Older Posts</a>
+    {% else %}
+      <span class="next ">Next</span>
+    {% endif %}
+        
+    {% if paginator.previous_page == 1 %}
+        <a href="/">Previous</a>
+     {% else if paginator.previous_page %}
+        <a href="/page{{ paginator.previous_page }}" class="previous">Newer Posts</a>
+     {% else %}
+     <span class="previous">Previous</span>
+     {% endif %}
+    </div>
+</div>

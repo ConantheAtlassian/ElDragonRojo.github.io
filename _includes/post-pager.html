@@ -1,0 +1,14 @@
+<div class="nav post-pager">
+    {% if page.previous %}
+    <a href="{{page.previous.url}}" rel="prev" class="prev">
+        <span class="meta-nav">←</span>
+        {{page.previous.title}}
+    </a>
+    {% endif %}
+    {% if page.next %}
+    <a href="{{page.next.url}}" rel="next" class="next">
+        {{page.next.title}}
+        <span class="meta-nav">→</span>
+    </a>
+    {% endif %}
+</div>

@@ -73,7 +73,7 @@ HEADER
     File.open path, "w+" do |file|
       file.truncate(0)
       file.rewind
-      file.write new_content
+      file.write new_conten
     end
   end
 end
