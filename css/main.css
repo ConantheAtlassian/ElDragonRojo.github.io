@@ -10,17 +10,23 @@
   padding: 0;
 }
 
-html, body { height: 100%; }
+html, body { 
+  height: 100%; 
+  background-color: #f1f1f1;
+}
 
 body {
   background-color: #FFF;
   font: 13.34px Helvetica, Arial, sans-serif;
   font-size: small;
   text-align: center;
+  font-family: Georgia, 'Bitstream Charter', serif;  
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-size: 100%; }
+  font-size: 100%;
+  font-family: 'Helvetica Neue', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
+}
 
 h1 { margin-bottom: 1em; }
 p { margin: 1em 0; }
@@ -63,9 +69,14 @@ ul.posts span {
 .site {
   font-size: 115%;
   text-align: justify;
-  width: 42em;
+  width: 980px;
   margin: 3em auto 2em;
   line-height: 1.5em;
+  background-color: #FFF;
+}
+
+.site .inner {
+  padding: 42px 20px 0 20px;
 }
 
 .site .header a {
@@ -126,6 +137,10 @@ ul.posts span {
   border: 0;
 }
 
+.container {
+  background-color: #f1f1f1; 
+}
+
 /*****************************************************************************/
 /*
 /* Posts
@@ -162,4 +177,45 @@ ul.posts span {
 
 .post pre.terminal code {
   background-color: #333;
+}
+
+.header {
+  background-image: url("/images/header.jpg");
+  width: 940px;
+  height: 198px;
+  position: relative;
+}
+
+.header .nav {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 0;
+  margin: 0;
+  height: 39px;
+  background-color: #000;
+  color: #FFF;
+  line-height: 39px;
+  padding-left: 30px;
+}
+
+.header .nav a, .header .nav a:link, .header .nav a:active, .header .nav a:visited {
+  color: #FFF;
+  font-weight: normal;
+}
+
+.site-name {
+  
+}
+
+h2.site-name  {
+  padding: 0;
+  margin: 0 0 25px 0;
+  font-size: 30px;
+}
+
+h2.site-name a, h2.site-name  a:link, h2.site-name  a:active, h2.site-name a:visited {
+  color: #000;
+  text-decoration: none;
 }

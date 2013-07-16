@@ -14,30 +14,38 @@
 
     </head>
     <body>
-
         <div class="container">
           <div class="site">
-            <div class="header">
-              <h1 class="title"><a href="/">{{ site.name }}</a></h1>
-              <a class="extra" href="/">home</a>
-            </div>
+            <div class="inner">
+                <h2 class="site-name">
+                    <a href="/" title="{{ site.name }}">
+                    {{ site.name }}
+                    </a>
+                </h2>
+                <div class="header">
+                    <div class="nav">
+                      <h1 class="home"><a href="/">Home</a></h1>
+                      <a class="extra" href="/">home</a>
+                  </div>
+                </div>
 
-                {{ content }}
+                    {{ content }}
 
-            <div class="footer">
-              <div class="contact">
-                <p>
-                  Your Name<br />
-                  What You Are<br />
-                  your@email.com
-                </p>
-              </div>
-              <div class="contact">
-                <p>
-                  <a href="http://github.com/yourusername/">github.com/yourusername</a><br />
-                  <a href="http://twitter.com/yourusername/">twitter.com/yourusername</a><br />
-                </p>
-              </div>
+                <div class="footer">
+                  <div class="contact">
+                    <p>
+                      Mike Lee<br />
+                      World Toughest Programmer<br />
+                      bmf@le.mu.rs
+                    </p>
+                  </div>
+                  <div class="contact">
+                    <p>
+                      <a href="http://github.com/ElDragonRojo/">github.com/ElDragonRojo</a><br />
+                      <a href="http://twitter.com/bmf/">twitter.com/bmf</a><br />
+                    </p>
+                  </div>
+                </div>
             </div>
           </div>
         </div> <!-- /container -->
