@@ -60,6 +60,19 @@ ul.posts span {
   font-size: 80%;
 }
 
+div.posts {
+  margin-top: 45px;
+}
+
+div.entry {
+  margin-bottom: 57px;
+}
+
+div.entry h2 {
+  font-size: 21px;
+}
+
+
 /*****************************************************************************/
 /*
 /* Site
@@ -182,8 +195,10 @@ ul.posts span {
 .header {
   background-image: url("/images/header.jpg");
   width: 940px;
-  height: 198px;
+  height: 237px;
   position: relative;
+  background-color: #000;
+  border-top: 3px solid #000;
 }
 
 .header .nav {
@@ -218,4 +233,18 @@ h2.site-name  {
 h2.site-name a, h2.site-name  a:link, h2.site-name  a:active, h2.site-name a:visited {
   color: #000;
   text-decoration: none;
+}
+
+.posts .entry h2, .posts .entry h2 a, .posts .entry h2 a:link, .posts .entry h2:avtive, .posts .entry h2:visited {
+  color: #000;
+  text-decoration: none;
+  border: 1px solid #F00;
+}
+
+.page {
+  margin-top: 42px;
+}
+
+.entry h1 {
+  font-size: 21px;
 }
