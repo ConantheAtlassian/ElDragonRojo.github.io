@@ -8,4 +8,5 @@ markdown: redcarpet
 paginate: 10
 permalink: /:year/:month/:day/:title
 atom_path: atom.xml
+rss_path: rss.xml
 
