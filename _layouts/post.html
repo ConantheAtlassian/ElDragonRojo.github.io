@@ -16,7 +16,7 @@ paginate: 1
     {% include author-info.html %}
     <br>
     <p class="meta">
-        This entry was posted in {{ page.categories }} and tagged {{ page.tags }}.
+        This entry was posted in {{ page.categories | array_to_sentence_string }} and tagged {{ page.tags | array_to_sentence_string }}.
     </p>
 </div>
 {% include side-nav.html %}

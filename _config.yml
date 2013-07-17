@@ -1,5 +1,11 @@
-name: mu.mu.rs
+name: mur.mu.rs
+title: mur.mu.rs
+production_url: http://mur.mu.rs
+author:
+  email: bmf@le.mu.rs
+  name: Mike Lee
 markdown: redcarpet
 paginate: 10
 permalink: /:year/:month/:day/:title
+atom_path: atom.xml
 
