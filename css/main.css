@@ -326,3 +326,34 @@ h2.site-name a, h2.site-name  a:link, h2.site-name  a:active, h2.site-name a:vis
   float:left;
   width: 29%;
 }
+
+.about-mike {
+  display: block;
+  color: #888;
+  font-family: 'Helvetica Neue', Arial, Helvetica, 'Nimbus Sans L', sans-serif;
+  text-align: left;
+  font-size: 12px;
+  padding: 10px 0 0 0;
+  margin: 0 0 0 30px;
+  margin-top: 125px;
+  background-color: #F2F7FC;
+}
+
+.about-mike p {
+  padding: 0 10px 0px 10px;
+}
+
+.about-mike p a, .about-mike p a:link, .about-mike p a:active, .about-mike p a:visited {
+  color: #777;
+}
+
+.about-mike .portrait {
+  background-image: url(/images/mike-lee.jpg);
+  background-size: 100% auto;
+  background-position: 0 -25px;
+  height: 242px;
+  background-color: #000;
+  margin-top: 30px;
+}
+
+

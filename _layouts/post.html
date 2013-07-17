@@ -3,8 +3,9 @@ layout: default
 paginate: 1
 ---
 <div class="entry page">
-    <h1>{{ page.title }}</h1>
     {% include post-pager.html %}
+    <br/>
+    <h1>{{ page.title }}</h1>
     <p class="meta">Posted on {{ page.date | date_to_string }} by <a href="https://twitter.com/bmf">Mike</a></p>
     <div class="post">
     {{ content }}
