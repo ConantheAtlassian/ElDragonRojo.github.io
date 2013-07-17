@@ -1,5 +1,5 @@
 name: mu.mu.rs
 markdown: redcarpet
 paginate: 10
-permalink: :categories/:year/:month/:day/:title
+permalink: /:year/:month/:day/:title
 
