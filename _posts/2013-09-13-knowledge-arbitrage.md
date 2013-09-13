@@ -2,7 +2,7 @@ The Netherlands is 3-5 years behind in technology production, meaning most techn
 
 People here have been complaining about the same things for so long, and making the same bad conclusions, it's become a party line. This was recently, depressingly summed up in the [Amsterdam Startup Manifesto](https://medium.com/p/8656836beb94), which would be an eerily visionary prediction of Appsterdam if it had been published 3 years ago.
 
-Indeed, while it described Appsterdam in great detail, it didn't mention Appsterdam at all, until they tacked on something  as if Appsterdam throws a few events here an there, when in fact they host over half the technology meetups in the city, with an event on average every other day.
+Indeed, while it described Appsterdam in great detail, it didn't mention Appsterdam at all, until they later tacked on something  as if Appsterdam throws a few events here and there, when in fact they host over half the technology meetups in the city, with an event on average every other day.
 
 This unintentionally demonstrates the biggest thing holding Amsterdam back—that its people spend time writing manifestos bemoaning the lack of things that exist, rather than [contributing](https://github.com/Appsterdam/open) to those things, or making their own better versions of those things.
 
