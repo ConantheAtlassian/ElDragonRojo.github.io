@@ -4,7 +4,7 @@ People here have been complaining about the same things for so long, and making 
 
 Indeed, while it described Appsterdam in great detail, it didn't mention Appsterdam at all, until they tacked on something  as if Appsterdam throws a few events here an there, when in fact they host over half the technology meetups in the city, with an event on average every other day.
 
-This laughably wrong document unintentionally demonstrates the biggest thing holding Amsterdam back—that its people spend time writing manifestos bemoaning the lack of things that exist, rather than [contributing](https://github.com/Appsterdam/open) to those things, or making their own better versions of those things.
+This unintentionally demonstrates the biggest thing holding Amsterdam back—that its people spend time writing manifestos bemoaning the lack of things that exist, rather than [contributing](https://github.com/Appsterdam/open) to those things, or making their own better versions of those things.
 
 Nobody is going to make you a technology hub against your will, and the way to become a technology hub is not by whining about not being a technology hub, but by producing technology. Shut up and ship, and the money will follow, whether you stay here or move to California.
 
