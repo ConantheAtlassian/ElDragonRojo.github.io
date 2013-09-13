@@ -16,7 +16,7 @@ The Netherlands beats the US on all the issues Americans worry most about, such 
 
 If you have a few years experience in any aspect of technology production, you can rule in any position from the C-level on down in any startup here, and when you go back, the experience of being abroad will put you 10 years ahead of your peers.
 
-I just came back from the 360iDev conference in Denver, the first—and many say the best—iOS conference in the world, where 300 of the world's top App Makers gathered to share their pasts and plan their futures. You know what city they mentioned more than any other? Not London. Not San Francisco. Not Dublin. Not Berlin.
+I just came back from the [360iDev](http://360idev.com) conference in Denver, the first—and many say the best—iOS conference in the world, where 300 of the world's top App Makers gathered to share their pasts and plan their futures. You know what city they mentioned more than any other? Not London. Not San Francisco. Not Dublin. Not Berlin.
 
 Amsterdam, where someone at every table was saying "you have to go, and I have to go back." Amsterdam, home of CocoaPods, Sofa, and the New Lemurs. Amsterdam, the city that makes any job offer interesting. You people might not know what you have, but the people you envy do.
 
