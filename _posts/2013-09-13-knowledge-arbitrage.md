@@ -10,7 +10,7 @@ Nobody is going to make you a technology hub against your will, and the way to b
 
 Nobody outside of Amsterdam thinks Berlin is a technology hub. Americans look genuinely confused when I mention that idea, and people from Berlin call Appsterdam to ask why they're not attracting more Americans. (Answer: no English language immigration procedure or entrepreneurial treaty.)
 
-Germans come to the Netherlands to learn App Making from the Big Nerd Ranch, and Americans eschew training in Atlanta to get in here, because they love any excuse to come to Europe in general and Amsterdam in particular. I can't remember the last time I had a Dutch student there.
+Germans come to the Netherlands to learn App Making from the [Big Nerd Ranch](http://www.bignerdranch.com/locations/netherlands), and Americans eschew training in Atlanta to get in here, because they love any excuse to come to Europe in general and Amsterdam in particular. I can't remember the last time I had a Dutch student there.
 
 The Netherlands beats the US on all the issues Americans worry most about, such as healthcare and education, and more and more Americans are coming to Amsterdam for working vacations, or leveraging the knowledge gap to jumpstart their careers.
 
