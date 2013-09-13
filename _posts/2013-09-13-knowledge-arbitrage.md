@@ -6,7 +6,7 @@ Indeed, while it described Appsterdam in great detail, it didn't mention Appster
 
 This laughably wrong document unintentionally demonstrates the biggest thing holding Amsterdam back—that its people spend time writing manifestos bemoaning the lack of things that exist, rather than contribution to those things, or making their own better versions of those things.
 
-Nobody is going to make you a technology hub against your will, and the way to become a technology hub is to stop whining about not being a technology hub and start producing technology. Shut up and ship, and the money will follow, whether you stay here or move to California.
+Nobody is going to make you a technology hub against your will, and the way to become a technology hub is not by whining about not being a technology hub, but by producing technology. Shut up and ship, and the money will follow, whether you stay here or move to California.
 
 Nobody outside of Amsterdam thinks Berlin is a technology hub. Americans look genuinely confused when I mention that idea, and people from Berlin call Appsterdam to ask why they're not attracting more Americans. (Answer: no English language immigration procedure or entrepreneurial treaty.)
 
