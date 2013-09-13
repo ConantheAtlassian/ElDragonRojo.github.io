@@ -20,6 +20,6 @@ I just came back from the [360iDev](http://360idev.com) conference in Denver, th
 
 Amsterdam, where someone at every table was saying "you have to go, and I have to go back." Amsterdam, home of [CocoaPods](http://cocoapods.org), Sofa, and the [New Lemurs](http://le.mu.rs). Amsterdam, the city that makes any job offer interesting. You people might not know what you have, but the people you envy do.
 
-Two years ago, almsot none of this was true. Appsterdam and the people who have followed its lead are chiefly responsible for this change. The University of Amsterdam [measured](http://circa.uva.nl/projects/innoviz-visualizing-stories-of-app-innovation.html) it. The government knows it. Top down ecosystem designs just can't beat a true grassroots movement by passionate individuals.
+Two years ago, almsot none of this was true. [Appsterdam](http://appsterdam.rs) and the people who have [followed](http://appdevelopersalliance.org) its [lead](http://www.appril.nl) are chiefly responsible for this change. The University of Amsterdam [measured](http://circa.uva.nl/projects/innoviz-visualizing-stories-of-app-innovation.html) it. The government knows it. Top down ecosystem designs just can't beat a true grassroots movement by passionate individuals.
 
 If you've been here so long that you can't see how much the tech scene is blowing up, drop the lazy, outdated tropes, and come over to [A Lab](http://www.a-lab.nl), the center of innovation in the heart of Europe's real technology landscape, which stretches from London to Berlin, from Amsterdam to Athens.
