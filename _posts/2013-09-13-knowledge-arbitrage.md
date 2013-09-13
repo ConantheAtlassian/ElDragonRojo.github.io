@@ -8,6 +8,8 @@ This unintentionally demonstrates the biggest thing holding Amsterdam back—tha
 
 Nobody is going to make you a technology hub against your will, and the way to become a technology hub is not by whining about not being a technology hub, but by producing technology. Shut up and ship, and the money will follow, whether you stay here or move to California.
 
+Or this idea that Amsterdam will never be the next Silicon Valley because Berlin is cheaper and grungier, as if Silicon Valley is a city, instead of a lot of different cities. This would be like San Franciscans saying they couldn't be a tech hub because they are not as cheap or grungy as San Jose.
+
 Nobody outside of Amsterdam thinks Berlin is a technology hub. Americans look genuinely confused when I mention that idea, and people from Berlin call Appsterdam to ask why they're not attracting more Americans. (Answer: no English language immigration procedure or [entrepreneurial treaty](https://github.com/Appsterdam/open/wiki/Immigrating-to-the-Netherlands).)
 
 Germans come to the Netherlands to learn App Making from the [Big Nerd Ranch](http://www.bignerdranch.com/locations/netherlands), and Americans eschew training in Atlanta to get it here, because they love any excuse to come to Europe in general and Amsterdam in particular. I can't remember the last time I had a Dutch student there.
