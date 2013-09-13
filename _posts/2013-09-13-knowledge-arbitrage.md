@@ -1,6 +1,6 @@
 The Netherlands is 3-5 years behind in technology production, meaning most technology workers here are unaware of tools and techniques their American counterparts take for granted. Technologists here are so behind, they are even out of date with how they bitch about technology here.
 
-People here have been complaining about the same things for so long, and making the same bad conclusions, it's become a party line. This was recently, depressingly summed up in the [Amsterdam Startup Manifesto](https://medium.com/p/8656836beb94), which would be an eerily visionary prediction of this city post Appsterdam if it had been published 3 years ago.
+People here have been complaining about the same things for so long, and making the same bad conclusions, it's become a party line. This was recently, depressingly summed up in the [Amsterdam Startup Manifesto](https://medium.com/p/8656836beb94), which would be an eerily visionary prediction of Appsterdam if it had been published 3 years ago.
 
 Indeed, while it described Appsterdam in great detail, it didn't mention Appsterdam at all, until they tacked on something  as if Appsterdam throws a few events here an there, when in fact they host over half the technology meetups in the city, with an event on average every other day.
 
