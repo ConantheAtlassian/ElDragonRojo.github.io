@@ -31,7 +31,7 @@ The two lemur exhibits at Artis are completely open, meaning the lemurs are just
 
 <a href="http://www.flickr.com/photos/vijaykiran/5967846104/" title="IMG_7085 by vijaykiran, on Flickr"><img src="http://farm7.static.flickr.com/6003/5967846104_64577770d8.jpg" width="500" height="333" alt="IMG_7085"></a>
 
-What made this last visit to the Artis even better is that I was there with a bunch of other App Makers and their families. Most of us went for dinner and drinks afterwards. It's fun to go to the zoo, and it's fun to go out for dinner, but it's even more fun with a bunch of your friends.
+What made this last visit to the Artis even better is that I was there with a bunch of other App Makers and their families. Most of us went for dinner and drinks afterwards. It's fun to go to the zoo, and it's fun to go out for dinner, but it's even more fun with a bunch of your friends. Indeed it is.
 
 <strong>That is what we talk about when we talk about Appsterdam.</strong>
 
